@@ -1,3 +1,4 @@
+# DEPRECATED
 # vue-directives
 
 A collection of directives for vue.  
